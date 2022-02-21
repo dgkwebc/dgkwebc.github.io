@@ -1,2 +1,1 @@
-# dgkwebc.github.io
-dgkwebc
+website
