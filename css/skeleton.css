@@ -160,6 +160,15 @@ p {
   text-align: center; }
 
 
+/* Slideshow
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+#slideshow img {
+  margin-bottom: 30px;
+  margin: auto;
+  display: block;
+  max-width: 90%; }
+
+
 /* Links
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {
